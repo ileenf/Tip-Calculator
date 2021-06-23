@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://imgur.com/LsDmvHL
+https://imgur.com/LsDmvHL.gif
 
 GIF created with (ezgif.com/video-to-gif).
 
