@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [ ] What I can get done to improve the app functionality!
       *Add backend functionality to the settings page
       *Have keyboard automatically displayed
       *Slider for user to choose custom percentage
